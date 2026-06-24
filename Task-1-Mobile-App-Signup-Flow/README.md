@@ -14,12 +14,14 @@ This project was created as part of the CodSoft UI/UX Internship Program. The ob
 * Consistent visual hierarchy and accessibility
 
 ## Design Preview
+CodSoftTask1 BY25RY297417
 
+<img width="946" height="361" alt="Screenshot 2026-06-25 002321" src="https://github.com/user-attachments/assets/4c4eb96f-e6e3-4655-9969-b9b5f192b08f" />
 
 
 ## Figma Prototype
 
-YOUR_FIGMA_LINK
+https://www.figma.com/design/cQ2HMKb4sjCJPR2c3C0SAO/Task01-CodSoft?node-id=0-1&p=f&t=bIxC5bYfERzs9lel-0
 
 ## LinkedIn Profile
 https://www.linkedin.com/in/arra-vaishnavi-reddy-1264323a3/
@@ -32,7 +34,7 @@ https://www.linkedin.com/in/arra-vaishnavi-reddy-1264323a3/
 
 Internship: CodSoft UI/UX Internship
 Batch: June Batch C3
-Unique ID: YOUR_UNIQUE_ID
+Unique ID:BY25RY297417
 
 ## Author
 
